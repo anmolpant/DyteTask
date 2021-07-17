@@ -22,7 +22,7 @@ Clicking on a file from the “file explorer” should display the corresponding
 
 The “live view” section must display the rendered website that was created by the user. When a change is made to any of the index.html, index.css, or index.js files, the “live view” section should hot-reload, and display the new output.
 
-<b>Bonus:<b>
+<b>Bonus:</b>
 
 1. Create a feature to save your code, and generate a shareable link (such as https://editor.io/edit/<unique-id>) that should show the saved code when the link is visited. Use the Pastebin Developer API to save your code, generate a unique link, and then load it back at a later stage.
 
@@ -39,6 +39,7 @@ The following screenshot from https://codepen.io shows an example of how your ap
 <img src="https://github.com/anmolpant/SaniText/blob/master/Screenshots/sanitext.png" alt="sanitextLogo"/>
 </p>
 
+<b>
 <p align = "center">
 <br>
   Name: Anmol Pant<br>
@@ -52,7 +53,7 @@ The following screenshot from https://codepen.io shows an example of how your ap
   The webapp was created as the submission for the frontend task for the problem statement given by <b>Dyte.</b>
 </p>
 
-<br><br>
+<br><br></b>
 
 ![Generic badge](https://img.shields.io/badge/ReactJS-blue)
 
