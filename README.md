@@ -33,18 +33,22 @@ Bonus:
 The following screenshot from https://codepen.io shows an example of how your application might look. Feel free to change the UI/UX as you see fit. </b>
 
 </p>
-<p align="center">
-  SaniText-Code is an all inclusive online development environment for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor where developers can create code snippets and test them. The output of the corresponding snippets is generated in real time and the UI features an interactive file explorer pane that allows the user to switch seamlesslessly between different files and allow the incorporation of changes dynamically.
-  The webapp was created as the submission for the frontend task for the problem statement given by <b>Dyte.</b>
-  <br><br><br>
-  Name: Anmol Pant<br>
-  Reg No: 18BCE0283<br>
-  Submission for: Dyte Frontend Task<br>
-</p>
 
 <p align="center">
 <img src="https://github.com/anmolpant/SaniText/blob/master/Screenshots/sanitext.png" alt="sanitextLogo"/>
+
+<br><br>
+  Name: Anmol Pant<br>
+  Reg No: 18BCE0283<br>
+  Submission for: Dyte Frontend Task<br>
+
 </p>
+
+<p align="center">
+  SaniText-Code is an all inclusive online development environment for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor where developers can create code snippets and test them. The output of the corresponding snippets is generated in real time and the UI features an interactive file explorer pane that allows the user to switch seamlesslessly between different files and allow the incorporation of changes dynamically.
+  The webapp was created as the submission for the frontend task for the problem statement given by <b>Dyte.</b>
+</p>
+
 
 ![Generic badge](https://img.shields.io/badge/ReactJS-blue)
 
@@ -70,6 +74,24 @@ The following screenshot from https://codepen.io shows an example of how your ap
 </p>
 <br>
 
+## Steps to run this project
+
+1. Clone this repository and `cd` into it.
+2. Execute `npm install` to download dependencies.
+3. If u dont have a react app installed install it using the command `npm install -g create-react-app`
+4. Start the server by using the command `npm start`
+5. `cd` into the client folder, run `npm install` followed by `npm start` to start the development server. 
+6. Open http://localhost:3000 in your browser.
+
+<br>
+
+```
+$ git clone https://github.com/anmolpant/DyteTask
+$ cd DyteTask
+$ npm install
+$ npm start
+```
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -80,11 +102,16 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Tech Stacks Used
+## Tech Stacks / Tools used
 
-<p align="center">
-<img src="https://github.com/anmolpant/DyteTask/blob/main/screenshots/techstacks.png" alt="techstacks"/>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/330px-React-icon.svg.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/typescript.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/css.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/html.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/javascript.png" height=40 hspace=20>
 </p>
+
 <br>
 
 ## Contributors
