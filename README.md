@@ -34,7 +34,8 @@ The following screenshot from https://codepen.io shows an example of how your ap
 
 </p>
 <p align="center">
-  SaniText-Code is an all inclusive 
+  SaniText-Code is an all inclusive online development environment for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor where developers can create code snippets and test them. The output of the corresponding snippets is generated in real time and the UI features an interactive file explorer pane that allows the user to switch seamlesslessly between different files and allow the incorporation of changes dynamically.
+  The webapp was created as the submission for the frontend task for the problem statement given by <b>Dyte.</b>
   <br><br><br>
   Name: Anmol Pant<br>
   Reg No: 18BCE0283<br>
@@ -53,15 +54,19 @@ The following screenshot from https://codepen.io shows an example of how your ap
 
 ## Screenshots
 <p align="center">
-<img src="https://github.com/anmolpant/DyteTask/blob/main/screenshots/first_scene.PNG">
+<img src="https://github.com/anmolpant/DyteTask/blob/main/screenshots/initialUI.PNG">
 </p>
 <br>
 <p align="center">
-<img src="https://github.com/anmolpant/DyteTask/blob/main/screenshots/level1_4.PNG">
+<img src="https://github.com/anmolpant/DyteTask/blob/main/screenshots/htmlCode.PNG">
 </p>
 <br>
 <p align="center">
-<img src="https://github.com/anmolpant/DyteTask/blob/main/screenshots/exit_door.PNG">
+<img src="https://github.com/anmolpant/DyteTask/blob/main/screenshots/cssCode.PNG">
+</p>
+<br>
+<p align="center">
+<img src="https://github.com/anmolpant/DyteTask/blob/main/screenshots/jsCode.PNG">
 </p>
 <br>
 
@@ -92,7 +97,7 @@ Contributions are what make the open source community such an amazing place to l
 Anmol Pant
 
 <p align="center">
-<img src = "https://ibb.co/nj2qRYr" width="150" height="150" alt="">
+<img src = "https://i.ibb.co/M7Ty9tn/anmol.jpg" width="150" height="150" alt="">
 </p>
 <p align="center">
 <a href = "https://github.com/anmolpant"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
