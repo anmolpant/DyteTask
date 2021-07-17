@@ -98,7 +98,8 @@ $ npm start
 ```
 
 ## Deployment
-Checkout the hosted version of the webapp here - 
+
+Checkout the hosted version of the webapp here - https://dyte-task-anmolpant.vercel.app/
 
 ## Contributing
 
@@ -120,9 +121,8 @@ Contributions are what make the open source community such an amazing place to l
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/javascript.png" height=40 hspace=20>
 </p>
 
-<br>
-
 ## Contributors
+
 <table>
 <tr align="center">
 
