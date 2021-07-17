@@ -42,7 +42,7 @@ The following screenshot from https://codepen.io shows an example of how your ap
 </p>
 
 <p align="center">
-<img src="https://github.com/anmolpant/DyteTask/blob/main/logo.PNG" alt="logo"/>
+<img src="https://github.com/anmolpant/SaniText/blob/master/Screenshots/sanitext.png" alt="sanitextLogo"/>
 </p>
 
 ![Generic badge](https://img.shields.io/badge/ReactJS-blue)
@@ -92,7 +92,7 @@ Contributions are what make the open source community such an amazing place to l
 Anmol Pant
 
 <p align="center">
-<img src = "https://i.ibb.co/M7Ty9tn/anmol.jpg" width="150" height="150" alt="">
+<img src = "https://ibb.co/nj2qRYr" width="150" height="150" alt="">
 </p>
 <p align="center">
 <a href = "https://github.com/anmolpant"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -106,7 +106,7 @@ Anmol Pant
 
 ## License
 
-**GNU &copy; [Anmol Pant](https://github.com/anmolpant/DyteTask/blob/main/LICENSE)**
+**MIT &copy; [Anmol Pant](https://github.com/anmolpant/DyteTask/blob/main/LICENSE)**
 
 <div align="center">
   <b>Please do ⭐ this repo, if you liked my work.</b>
