@@ -92,7 +92,7 @@ Contributions are what make the open source community such an amazing place to l
 Anmol Pant
 
 <p align="center">
-<img src = "https://ibb.co/nj2qRYr" width="150" height="150" alt="">
+<img src = "https://i.ibb.co/M7Ty9tn/anmol.jpg" width="150" height="150" alt="">
 </p>
 <p align="center">
 <a href = "https://github.com/anmolpant"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
