@@ -32,6 +32,7 @@ The “live view” section must display the rendered website that was created b
 
 The following screenshot from https://codepen.io shows an example of how your application might look. Feel free to change the UI/UX as you see fit.
 
+
 </p>
 
 <p align="center">
