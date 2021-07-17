@@ -5,24 +5,24 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anmolpant/DyteTask?logo=github&style=social)](https://github.com/anmolpant/) [![GitHub last commit](https://img.shields.io/github/last-commit/anmolpant/DyteTask?style=social&logo=git)](https://github.com/anmolpant/) [![GitHub stars](https://img.shields.io/github/stars/anmolpant/DyteTask?style=social)](https://github.com/anmolpant/DyteTask/stargazers) [![GitHub forks](https://img.shields.io/github/forks/anmolpant/DyteTask?style=social&logo=git)](https://github.com/anmolpant/DyteTask/network)
 
 <p>
-<b>Problem Statement - Frontend (React)
+<b>Problem Statement - Frontend (React) </b>
 
 For this problem statement, you should not build your own backend. You are allowed to use any library that you may require during implementation.
 
 Create an online code editor using React that supports the following features:
 
 There are 3 sections, namely:
-A “file explorer” pane that contains 3 files: index.html, index.css, index.js.
+1. A “file explorer” pane that contains 3 files: index.html, index.css, index.js.
 
-A “code editor” that supports syntax highlighting for HTML, CSS, and JS.
+2. A “code editor” that supports syntax highlighting for HTML, CSS, and JS.
 
-A “live view” section to show the rendered HTML website.
+3. A “live view” section to show the rendered HTML website.
 
 Clicking on a file from the “file explorer” should display the corresponding content on the code editor for editing.
 
 The “live view” section must display the rendered website that was created by the user. When a change is made to any of the index.html, index.css, or index.js files, the “live view” section should hot-reload, and display the new output.
 
-Bonus:
+<b>Bonus:<b>
 
 1. Create a feature to save your code, and generate a shareable link (such as https://editor.io/edit/<unique-id>) that should show the saved code when the link is visited. Use the Pastebin Developer API to save your code, generate a unique link, and then load it back at a later stage.
 
@@ -30,17 +30,17 @@ Bonus:
 
 3. Make your React application using Typescript.
 
-The following screenshot from https://codepen.io shows an example of how your application might look. Feel free to change the UI/UX as you see fit. </b>
+The following screenshot from https://codepen.io shows an example of how your application might look. Feel free to change the UI/UX as you see fit.
 
 </p>
 
 <p align="center">
+<br>
 <img src="https://github.com/anmolpant/SaniText/blob/master/Screenshots/sanitext.png" alt="sanitextLogo"/>
-
 </p>
 
 <p align = "center">
-<br><br>
+<br>
   Name: Anmol Pant<br>
   Reg No: 18BCE0283<br>
   Submission for: Dyte Frontend Task<br>
@@ -52,6 +52,7 @@ The following screenshot from https://codepen.io shows an example of how your ap
   The webapp was created as the submission for the frontend task for the problem statement given by <b>Dyte.</b>
 </p>
 
+<br><br>
 
 ![Generic badge](https://img.shields.io/badge/ReactJS-blue)
 
@@ -94,6 +95,9 @@ $ cd DyteTask
 $ npm install
 $ npm start
 ```
+
+## Deployment
+Checkout the hosted version of the webapp here - 
 
 ## Contributing
 
